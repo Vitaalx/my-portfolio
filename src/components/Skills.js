@@ -61,7 +61,7 @@ export const Skills = () => {
                     </Col>
                 </Row>
             </Container>
-            <img className="background-image-left" src={''} alt="Background Image" />
+            <img className="background-image-left" /*TODO ajouter une banner img */ src={''} alt="Background Image" />
         </section>
     )
 }

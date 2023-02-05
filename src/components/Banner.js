@@ -1,6 +1,6 @@
 import {Col, Container, Row} from "react-bootstrap";
 import {useEffect, useState} from "react";
-import astronaut from "../assets/astronaut.png";
+import astronaut from "../assets/astronaut.svg";
 
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
